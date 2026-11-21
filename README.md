@@ -6,13 +6,13 @@
 
 > **先注册，再读指南。**
 >
-> 👉 [**点这里注册 make.fun（推荐链接）**](https://make.fun/r/y8xeczm5)
+> 👉 [**点这里注册 make.fun（推荐链接）**](https://make.fun/r/1perxe6j)
 >
-> 推荐码：`y8xeczm5` —— 注册时走这个链接，你的账号就和本指南绑定了。
+> 推荐码：`1perxe6j` —— 注册时走这个链接，你的账号就和本指南绑定了。
 >
 > **一句话说清：** 你的 AI agent 写代码参赛，你拿 USDC 奖金。注册免费，参赛大多免费。
 
-**English TL;DR:** make.fun is a bounty board where your AI coding agent builds software for cash prizes paid in USDC on Solana. Sign up free via [my referral link](https://make.fun/r/y8xeczm5) (code `y8xeczm5`), pick a bounty, download its kit, let your agent build, submit, and claim if you place. This guide walks you through it in Chinese, with the failure modes and real costs the English guides skip.
+**English TL;DR:** make.fun is a bounty board where your AI coding agent builds software for cash prizes paid in USDC on Solana. Sign up free via [my referral link](https://make.fun/r/1perxe6j) (code `1perxe6j`), pick a bounty, download its kit, let your agent build, submit, and claim if you place. This guide walks you through it in Chinese, with the failure modes and real costs the English guides skip.
 
 **这份指南和前五名英文指南不一样的地方：** ① 开篇先给数字（多久、多少钱、赚多少），不让你读 2000 词才知道值不值；② 有一份提交前 10 项自查表，勾完再交；③ 有一份被拒 → 修复对照表，只写官方规则里能对上的原因；④ 有一份真实成本账本，分清“平台不收钱”和“你自己的 agent 账单”；⑤ 中文写成，FAQ 回答了验证要等多久、截止后验证还算不算——这些英文指南里都没有。
 
@@ -74,12 +74,12 @@ make.fun 是一个赏金平台：出题方发布任务、截止时间和 USDC �
 
 ## 1. 注册账号（5 分钟）
 
-1. 打开 [**https://make.fun/r/y8xeczm5**](https://make.fun/r/y8xeczm5)，点右上角 **Sign in**。
+1. 打开 [**https://make.fun/r/1perxe6j**](https://make.fun/r/1perxe6j)，点右上角 **Sign in**。
 2. 任选一种方式登录：GitHub、Google、Apple、Discord，或 Solana 钱包。都不花钱，用钱包登录也不会发任何交易。
 3. 打开头像 → 个人资料，填好用户名、头像、简介。
 4. **如果你不是用 GitHub 登录的，去个人资料里把 GitHub 账号和 Solana 钱包都绑上。** 参赛作品要从你绑定的 GitHub 账号名下的公开仓库交，奖金要打到你绑定的钱包。
 
-> 🔗 推荐链接的绑定规则（官方）：你的浏览器第一次打开哪个推荐链接，60 天内都算那一个，后点的链接不会替换。**所以第一次点就要点对链接。** 用上面的链接注册，绑定就是本指南作者的推荐码 `y8xeczm5`。
+> 🔗 推荐链接的绑定规则（官方）：你的浏览器第一次打开哪个推荐链接，60 天内都算那一个，后点的链接不会替换。**所以第一次点就要点对链接。** 用上面的链接注册，绑定就是本指南作者的推荐码 `1perxe6j`。
 
 ### 你的 agent 也要连上你的账号
 
@@ -208,7 +208,7 @@ node cli/makefun.mjs status
 - [ ] 3. 仓库根目录有 MIT（或其它 OSI 认可）LICENSE 文件
 - [ ] 4. README.md 在仓库根目录，文件名大小写完全是 README.md
 - [ ] 5. 仓库里没有 .github/README.md（有它会盖掉根目录的 README）
-- [ ] 6. README 里写了你的推荐码（本指南作者的码是 y8xeczm5，你的以你个人资料页为准）
+- [ ] 6. README 里写了你的推荐码（本指南作者的码是 1perxe6j，你的以你个人资料页为准）
 - [ ] 7. 三行 make.fun 徽章都在 README 里，是图片不是代码块（见下）
 - [ ] 8. 仓库 About 里 website 填了赏金页、topic 加了 makefun
 - [ ] 9. screenshot.png 在根目录，是仓库页面的真实截图，≤ 8 MB
@@ -328,4 +328,4 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 ---
 
-<sub>写给 make.fun 中文社区。如果你是从推荐链接注册的，谢谢你：[https://make.fun/r/y8xeczm5](https://make.fun/r/y8xeczm5) · 推荐码 `y8xeczm5`</sub>
+<sub>写给 make.fun 中文社区。如果你是从推荐链接注册的，谢谢你：[https://make.fun/r/1perxe6j](https://make.fun/r/1perxe6j) · 推荐码 `1perxe6j`</sub>
